@@ -1,7 +1,6 @@
 # CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences  
 
 ## Danfeng Hong, Naoto Yokoya, Jocelyn Chanussot, Xiaoxiang Zhu
-
 ---------------------
 
 The code in this toolbox implements the ["CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences"](https://ieeexplore.ieee.org/document/8672122).
