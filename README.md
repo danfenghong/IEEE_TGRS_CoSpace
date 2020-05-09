@@ -59,7 +59,7 @@ If you want to use the codes mentioned above, please cite the corresponding arti
 
 ---------------------
 For the datasets used in our paper (Houston data and Chikusei data), you can  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apply for the Univeristy of Houston hyperspectral dataset from http://www.grss-ieee.org/community/technical-committees/data-fusion/2013-ieee-grss-data-fusion-contest/;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apply for the Univeristy of Houston hyperspectral dataset from [IEEE GRSS Data Fusion Contest 2013](http://www.grss-ieee.org/community/technical-committees/data-fusion/2013-ieee-grss-data-fusion-contest/);  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;download the Chikusei data from http://naotoyokoya.com/Download.html.
 
 Or please feel free to contact me if you are interested in such tasks.
