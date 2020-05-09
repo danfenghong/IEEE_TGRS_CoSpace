@@ -12,7 +12,7 @@ Citation
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
      @article{hong2019cospace,
-      title     = {Co{S}pace: Common subspace learning from hyperspectral-multispectral correspondences},
+      title     = {Co{S}pace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences},
       author    = {D. Hong and N. Yokoya and J. Chanussot and X. Zhu},
       journal   = {IEEE Trans. Geosci. Remote Sens.}, 
       volume    = {57},
