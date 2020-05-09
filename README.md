@@ -36,10 +36,9 @@ If you want to run the code in your own data, you can accordingly change the inp
 
 If you encounter the bugs while using this code, please do not hesitate to contact us.
 
-(c) Danfeng Hong, Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR), Germany; <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Singnal Processing in Earth Oberservation (SiPEO), Technical University of Munich (TUM), Germany.<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; danfeng.hong@dlr.de      
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; hongdanfeng1989@gmail.com
+
+Acknowledgment
+---------------------
 
 We would like to thank Prof. Deng Cai, Dr. Tom Rainforth, and Prof. Chih-Chung Chang and Prof. Chih-Jen Lin for providing the Matlab Codes of LPP, CCF, and SVM, respectively. 
 Codes for these algorithms used in our paper can be found in the following.
