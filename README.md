@@ -57,25 +57,12 @@ SVM: the code is available in https://www.csie.ntu.edu.tw/~cjlin/libsvm/oldfiles
 
 If you want to use the codes mentioned above, please cite the corresponding articles as well.
 
-References:
-[1] D. Cai, X. He, J. Han. "Document clustering using locality preserving indexing." IEEE Transactions on Knowledge and Data Engineering 17.12 (2005): 1624-1637.
-[2] D.Hong, N. Yokoya, J. Xu, X. Zhu. "Joint & progressive learning from high-dimensional data for multi-label classification." In Proceedings of the European Conference on Computer Vision (ECCV), pp. 469-484. 2018.
-[3] T. Rainforth, F. Wood. "Canonical correlation forests." arXiv preprint arXiv:1507.05444 (2015).
-[4] C. Chang, C. Lin. "LIBSVM: a library for support vector machines." ACM transactions on intelligent systems and technology (TIST) 2.3 (2011): 27.
-
 ---------------------
-For the datasets used in our paper (Houston data and Chikusei data), you can
-
-    apply for the Univeristy of Houston hyperspectral dataset from http://www.grss-ieee.org/community/technical-committees/data-fusion/2013-ieee-grss-data-fusion-contest/.
-    
-    download the Chikusei data from http://naotoyokoya.com/Download.html.
+For the datasets used in our paper (Houston data and Chikusei data), you can  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apply for the Univeristy of Houston hyperspectral dataset from http://www.grss-ieee.org/community/technical-committees/data-fusion/2013-ieee-grss-data-fusion-contest/;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;download the Chikusei data from http://naotoyokoya.com/Download.html.
 
 Or please feel free to contact me if you are interested in such tasks.
-
-References:
-[1] N. Yokoya, I. Akira."Airborne hyperspectral data over Chikusei." Tech. Rep. SAL-2016-05-27 (2016).
-[2] D. Hong, N. Yokoya, J. Chanussot, X. Zhu."CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences." arXiv preprint arXiv:1812.11501 (2018).
-[3] D. Hong, N. Yokoya, N. Ge, J. Chanussot, X. Zhu."Learnable manifold alignment (LeMA): A semi-supervised cross-modality learning framework for land cover and land use classification." ISPRS Journal of Photogrammetry and Remote Sensing 147 (2019): 193-205.
 
 Licensing
 ---------
