@@ -1,4 +1,5 @@
 # CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences  
+
 Danfeng Hong, Naoto Yokoya, Jocelyn Chanussot, Xiaoxiang Zhu
 ---------------------
 
