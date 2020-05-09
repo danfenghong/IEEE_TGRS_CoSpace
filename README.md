@@ -1,4 +1,8 @@
+# CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences  
 
+## Danfeng Hong, Naoto Yokoya, Jocelyn Chanussot, Xiaoxiang Zhu
+
+---------------------
 
 The code in this toolbox implements the ["CoSpace: Common Subspace Learning from Hyperspectral-Multispectral Correspondences"](https://ieeexplore.ieee.org/document/8672122).
 More specifically, it is detailed as follow.
@@ -51,7 +55,6 @@ SVM: the code is available in https://www.csie.ntu.edu.tw/~cjlin/libsvm/oldfiles
 
 If you want to use the codes mentioned above, please cite the corresponding articles as well.
 
----------------------
 For the datasets used in our paper (Houston data and Chikusei data), you can  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;apply for the Univeristy of Houston hyperspectral dataset from [IEEE GRSS Data Fusion Contest 2013](http://www.grss-ieee.org/community/technical-committees/data-fusion/2013-ieee-grss-data-fusion-contest/);  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;download the Chikusei data from http://naotoyokoya.com/Download.html.
