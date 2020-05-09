@@ -32,7 +32,7 @@ The code was tested in Matlab R2016a or higher versions on Windows 10 machines.
 How to use it?
 ---------------------
 
-Directly run demo.m to reproduce the results on the Houston2013  data, which exists in the aforementioned paper.  
+Directly run demo.m to reproduce the results on the Houston2013 data, which exists in the aforementioned paper.  
 
 Note that the hyperspectral and simulated multispectral Houston2013 data can be downloaded from  
 [google drive](https://drive.google.com/open?id=1Inpi2_lHuvEWdJX_Duj9ild1_a0LHKmD)  
