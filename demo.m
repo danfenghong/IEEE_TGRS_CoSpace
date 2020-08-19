@@ -55,7 +55,7 @@ characterClass= predict(mdl,testdata');
 oa_NN = sum(characterClass==TestLabel')/length(TestLabel);
 
 %% LSVM classifier
-[M_SVM,oa_SVM,pa_SVM,ua_SVM,kappa_SVM]=LSVM(traindata,TrainLabel,testdata,TestLabel);
+[oa_SVM,pa_SVM,ua_SVM,kappa_SVM]=LSVM(traindata,TrainLabel,testdata,TestLabel);
 
 %% CCF classifier
 rng(1);
